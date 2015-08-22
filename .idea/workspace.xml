@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fb9ce7e-8db9-4d7f-8805-00d8ad8f94b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/LaunchScreen.png" afterPath="$PROJECT_DIR$/img/LaunchScreen.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Logo.png" afterPath="$PROJECT_DIR$/img/Logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Enviro_Challenge.iws" />
@@ -245,7 +243,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440280916221</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated Banner and text">
+      <created>1440281449813</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1440281449813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -277,7 +281,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Text corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Text corrections" />
+    <MESSAGE value="Updated Banner and text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Banner and text" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
